@@ -1,2 +1,1 @@
-# ml-examples
-ML examples
+Exploring ML examples
