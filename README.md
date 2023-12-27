@@ -2,7 +2,9 @@
 
 * ## Linnear Regression: 
     
-    A very basic example: [Linear Regression Basic Example.ipynb](https://github.com/EugeniaPais/ML-Examples/blob/main/Linear%20Regression%20Basic%20Example.ipynb) 
+    A very basic example to teach Linnear Regression.
+    
+    [Linear Regression Basic Example.ipynb](https://github.com/EugeniaPais/ML-Examples/blob/main/Linear%20Regression%20Basic%20Example.ipynb) 
 
 * ## Ischemic Stroke Risk Factors Analysis:
     
@@ -13,3 +15,5 @@
 
     Approach:
     In this project, a binary classification study will be conducted to determine whether the patient is at risk of experiencing an ischemic stroke and to understand the most important risk factors. Standard classification algorithms, ensemble algorithms, and Boosting algorithms will be utilized for this purpose.
+
+    [Ischemic Stroke Risk Factors Analysis.ipynb](https://github.com/EugeniaPais/Exploring-Machine-Learning/blob/main/Ischemic%20Stroke%20Risks%20Factors.ipynb)
