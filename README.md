@@ -6,7 +6,7 @@
     
     [Linear Regression Basic Example.ipynb](https://github.com/EugeniaPais/ML-Examples/blob/main/Linear%20Regression%20Basic%20Example.ipynb) 
 
-* ## Ischemic Stroke Risk Factors Analysis:
+* ## Binary Classification - Ischemic Stroke Risk Factors Analysis:
     
     This research aims to determine the association between certain biochemical indicators and the incidence of ischemic stroke. It is an investigation focused on ischemic stroke within the field of neurology.
 
